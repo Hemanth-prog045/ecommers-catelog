@@ -33,7 +33,7 @@ const PRODUCTS = [
     name: "Laptop Pro",
     category: "Electronics",
     price: 1299.99,
-    image: "https://via.placeholder.com/150",
+    image: "ecommerce-catalog-new/src/pics/IMG-20250819-WA0014.jpg",
     description: "Powerful laptop for professionals",
   },
   {
@@ -49,7 +49,7 @@ const PRODUCTS = [
     name: "Smartphone X",
     category: "Electronics",
     price: 899.99,
-    image: "https://via.placeholder.com/150",
+    image: "C:\Users\heman\hackathon\ecommerce-catalog-new\src\pics\IMG-20250819-WA0012.jpg",
     description: "Latest smartphone with amazing camera",
   },
   {
@@ -57,7 +57,7 @@ const PRODUCTS = [
     name: "Backpack",
     category: "Fashion",
     price: 49.99,
-    image: "https://via.placeholder.com/150",
+    image: "C:\Users\heman\hackathon\ecommerce-catalog-new\src\pics\IMG-20250819-WA0011.jpg",
     description: "Stylish backpack for daily use",
   },
   {
